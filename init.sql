@@ -10,4 +10,5 @@ INSERT INTO tasks (name, status) VALUES
   ('Read a book', 'pending'),
   ('Write report', 'in-progress'),
   ('Call dentist', 'pending'),
-  ('Fix bug #42', 'done');
+  ('Fix bug #42', 'done'),
+  ('Tea', 'pending');
